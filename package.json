@@ -84,8 +84,7 @@
     ]
   },
   "babel": {
-    "plugins":["react-relay"],
-    
+    "plugins": [ ],
     "presets": [
       "react-app"
     ]
@@ -96,6 +95,4 @@
   "devDependencies": {
     "babel-plugin-react-relay": "^0.10.0"
   }
-
-  
 }
